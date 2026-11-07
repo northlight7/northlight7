@@ -2,7 +2,7 @@
 
 Six interactive concept websites, each with a distinct visual story.
 
-**[Explore the portfolio ↗](https://northlight7.github.io/web-design-portfolio/)** · [Descriptions, previews & source](https://github.com/northlight7/web-design-portfolio)
+**[Explore the portfolio ↗](https://northlight7.github.io/web-design-portfolio/)** · [Process notes](https://northlight7.github.io/web-design-portfolio/process/) · [Code and descriptions](https://github.com/northlight7/web-design-portfolio)
 
 | Project | Field | Live demo |
 | --- | --- | --- |
