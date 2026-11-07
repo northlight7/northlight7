@@ -13,4 +13,4 @@ Six interactive concept websites, each with a distinct visual story.
 | [Nocturne Atelier](https://github.com/northlight7/web-design-portfolio/tree/main/projects/nocturne) | Fragrance & luxury · product staging | [View live demo](https://northlight7.github.io/cinematic-nocturne/) |
 | [Monolith Architecture](https://github.com/northlight7/web-design-portfolio/tree/main/projects/monolith) | Architecture & interiors · dimensional drawing | [View live demo](https://northlight7.github.io/cinematic-monolith/) |
 
-Independent concept work by northlight7: art direction, interaction design, copy and browser testing. [How the six were made](https://northlight7.github.io/web-design-portfolio/process/) · All live demos open directly in a browser.
+Independent concept work by northlight7: art direction, interaction design, copy and browser testing. [How the six were made](https://northlight7.github.io/web-design-portfolio/process/) · [Contact](https://github.com/northlight7) · All live demos open directly in a browser.
